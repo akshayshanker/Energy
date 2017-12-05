@@ -1,4 +1,6 @@
-# World and U.S. energy intensity has declined over the past century.
+# Energy and the Direction of Technical Change
+
+World and U.S. energy intensity has declined over the past century.
 Because the decline in energy intensity has persisted through periods
 of stagnating or even falling energy prices, energy economists have
 suspected factors related to the growth process, independent of prices,
